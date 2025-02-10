@@ -439,7 +439,7 @@ NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/midc-property.git
+git clone https://github.com/GaneshTupsagar/midc-property.git
 cd midc-property
 ```
 
@@ -448,7 +448,10 @@ cd midc-property
 npm install
 ```
 
-3. Run the development server:PS H:\website\MidcProperty> npm run dev
+3. Run the development server:
+```bash
+npm run dev
+```
 
 > midc-property@0.1.0 dev
 > next dev
