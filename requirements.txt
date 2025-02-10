@@ -1,0 +1,7 @@
+next@latest
+react@latest
+framer-motion@latest
+next-auth@latest
+mongoose@latest
+bcrypt@latest
+sharp@latest
